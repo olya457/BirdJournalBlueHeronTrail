@@ -10,7 +10,7 @@ workflows:
         distribution_type: app_store
         bundle_identifier: com.cerseverefes.verdesavonerd
       vars:
-        APP_STORE_APPLE_ID: 6756238326
+        APP_STORE_APPLE_ID: 6759596023
         BUNDLE_ID: 'com.cerseverefes.verdesavonerd'
         XCODE_WORKSPACE: 'BirdJournalBlueHeronTrail.xcworkspace'
         XCODE_SCHEME: 'BirdJournalBlueHeronTrail'
